@@ -13,7 +13,6 @@ import re
 import sys
 import socket
 import argparse
-import argparse
 from ipaddress import ip_address
 
 
